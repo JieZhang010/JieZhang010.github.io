@@ -38,9 +38,9 @@ redirect_from:
 
   Zheng Yuan, Jie Zhang, Yude Wang, Shiguang Shan, Xilin Chen. Towards Robust Semantic Segmentation against Patch-Based Attack via Attention Refinement. International Journal of Computer Vision (IJCV) 2024. [[pdf]](https://link.springer.com/article/10.1007/s11263-024-02120-9)
 
-- **T2ishield: Defending against backdoors on text-to-image diffusion models**
+- **T2IShield: Defending against backdoors on text-to-image diffusion models**
 
-  Zhongqi Wang, Jie Zhang, Shiguang Shan, Xilin Chen. T2ishield: Defending against backdoors on text-to-image diffusion models. European Conference on Computer Vision (ECCV) 2024. [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_7)
+  Zhongqi Wang, Jie Zhang, Shiguang Shan, Xilin Chen. T2IShield: Defending against backdoors on text-to-image diffusion models. European Conference on Computer Vision (ECCV) 2024. [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_7)
 
 - **Hierarchical compositional representations for few-shot action recognition**
 
