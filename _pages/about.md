@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ Hi! Welcome to my homepage. I’m **Jie Zhang (张杰)**, an Associate Professor
 
 **<font color="blue">Internship and Graduate Students Opening</font>**: I am looking for self-motivated candidates who have solid mathematical backgrounds, strong English ability, and strong coding skills. If you are interested in doing research on Computer Vision and Pattern Recognition, please send detailed CV to me.
 
-## Recent News
+## Recent News 🔥
 - <font color="red">*NEW*</font>**2021.11**: One paper on Occluded Face Recognition is accepted by IEEE TIP. Congratulations to Mingjie He.
 - <font color="red">*NEW*</font>**2021.11**: One paper on Cross-domain Face Anti-spoofing is accepted by IEEE TIFS. Congratulations to Yunpei.
 - <font color="red">*NEW*</font>**2021.10**: I'm selected to 2021 Microsoft Research Asia Casting Star Project.
