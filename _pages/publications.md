@@ -12,6 +12,10 @@ redirect_from:
 
 ### 2025
 
+- **Face Forgery Video Detection via Temporal Forgery Cue Unraveling**
+
+  Zonghui Guo, Yingjie Liu, Jie Zhang, Haiyong Zheng, Shiguang Shan. Face Forgery Video Detection via Temporal Forgery Cue Unraveling. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025.
+
 - **Real face foundation representation learning for generalized deepfake detection**
 
   Liang Shi, Jie Zhang, Zhilong Ji, Jinfeng Bai, Shiguang Shan. Real face foundation representation learning for generalized deepfake detection. Pattern Recognition (PR) 2025. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324010501)
