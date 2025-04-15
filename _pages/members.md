@@ -28,7 +28,7 @@ redirect_from:
 - Mingjie He (Associate Professor)
 - Yuecong Min (Post-doc Fellow)
 - Dan Han (Engineer, on-job Ph.D. Candidate)
-- Zhenwei Du (Assistant Engineer)
+- Zhenwei Du (Engineer)
 - Yuhan Li (Assistant Engineer)
 - Jiaxuan Li (Assistant Engineer)
 
