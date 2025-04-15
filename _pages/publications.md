@@ -15,73 +15,99 @@ redirect_from:
 
 ### 2021
 - **Locality-aware Channel-wise Dropout for Occluded Face Recognition**
-Mingjie He, Jie Zhang, Shiguang Shan, Xiao Liu, Zhongqin Wu, Xilin Chen. Locality-aware Channel-wise Dropout for Occluded Face Recognition. IEEE Transactions on Image Processing (TIP) 2021. (Accepted)
+
+  Mingjie He, Jie Zhang, Shiguang Shan, Xiao Liu, Zhongqin Wu, Xilin Chen. Locality-aware Channel-wise Dropout for Occluded Face Recognition. IEEE Transactions on Image Processing (TIP) 2021. (Accepted)
 - **Dual-Branch Meta-learning Network with Distribution Alignment for Face Anti-spoofing**
-Yunpei Jia, Jie Zhang, Shiguang Shan. Dual-Branch Meta-learning Network with Distribution Alignment for Face Anti-spoofing. IEEE  Transactions on Information Forensics and Security (TFIS) 2021. (Accepted)
+
+  Yunpei Jia, Jie Zhang, Shiguang Shan. Dual-Branch Meta-learning Network with Distribution Alignment for Face Anti-spoofing. IEEE  Transactions on Information Forensics and Security (TFIS) 2021. (Accepted)
 - **Learning Shape-Appearance Based Attributes Representation for Facial Attribute Recognition with Limited Labeled Data**
-Kunyan Li, Jie Zhang, Shiguang Shan. Learning Shape-Appearance Based Attributes Representation for Facial Attribute Recognition with Limited Labeled Data. IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2021.
+
+  Kunyan Li, Jie Zhang, Shiguang Shan. Learning Shape-Appearance Based Attributes Representation for Facial Attribute Recognition with Limited Labeled Data. IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2021.
 - **Unknown Aware Feature Learning for Face Forgery Detection**
-Liang Shi, Jie Zhang, Chenyue Liang, Shiguang Shan. Unknown Aware Feature Learning for Face Forgery Detection. IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2021.
+
+  Liang Shi, Jie Zhang, Chenyue Liang, Shiguang Shan. Unknown Aware Feature Learning for Face Forgery Detection. IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2021.
 - **Meta Gradient Adversarial Attack**
-Zheng Yuan, Jie Zhang, Yunpei Jia, Chuanqi Tan, Tao Xue, Shiguang Shan. Meta Gradient Adversarial Attack. IEEE International Conference on Computer Vision (ICCV) 2021.[[code](https://github.com/huitailangyz/MGAA)]
+
+  Zheng Yuan, Jie Zhang, Yunpei Jia, Chuanqi Tan, Tao Xue, Shiguang Shan. Meta Gradient Adversarial Attack. IEEE International Conference on Computer Vision (ICCV) 2021.[[code](https://github.com/huitailangyz/MGAA)]
 - **Unified unsupervised and semi-supervised domain adaptation network for cross-scenario face anti-spoofing**
-Yunpei Jia, Jie Zhang, Shiguang Shan, Xilin Chen. Unified unsupervised and semi-supervised domain adaptation network for cross-scenario face anti-spoofing. Pattern Recognition (PR) 2021.
+
+  Yunpei Jia, Jie Zhang, Shiguang Shan, Xilin Chen. Unified unsupervised and semi-supervised domain adaptation network for cross-scenario face anti-spoofing. Pattern Recognition (PR) 2021.
 
 ### 2020
 - **Leveraging Auxiliary Tasks for Height andWeight Estimation by Multi Task Learning**
- Dan Han, Jie Zhang, Shiguang Shan. Leveraging Auxiliary Tasks for Height and Weight Estimation by Multi Task Learning. International Joint Conference on Biometrics (IJCB), 2020.
+
+  Dan Han, Jie Zhang, Shiguang Shan. Leveraging Auxiliary Tasks for Height and Weight Estimation by Multi Task Learning. International Joint Conference on Biometrics (IJCB), 2020.
 - **Attributes Aware Face Generation with Generative Adversarial Networks**
- Zheng Yuan, Jie Zhang, Shiguang Shan, Xilin Chen. Attributes Aware Face Generation with Generative Adversarial Networks. International Conference on Pattern Recognition (ICPR), 2020.
+
+  Zheng Yuan, Jie Zhang, Shiguang Shan, Xilin Chen. Attributes Aware Face Generation with Generative Adversarial Networks. International Conference on Pattern Recognition (ICPR), 2020.
 - **Deformable Face Net for Pose Invariant Face Recognition **
- Mingjie He, Jie Zhang, Shiguang Shan, Meina Kan, Xilin Chen. Deformable Face Net for Pose Invariant Face Recognition. Pattern Recognition (PR), 2020. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020051314412028.pdf)]
+
+  Mingjie He, Jie Zhang, Shiguang Shan, Meina Kan, Xilin Chen. Deformable Face Net for Pose Invariant Face Recognition. Pattern Recognition (PR), 2020. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020051314412028.pdf)]
 - **Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation**
- Yude Wang, Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. (Oral) [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020071411112068.pdf)] [[code](https://github.com/YudeWang/SEAM)]
+
+  Yude Wang, Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. (Oral) [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020071411112068.pdf)] [[code](https://github.com/YudeWang/SEAM)]
 - **Single-Side Domain Generalization for Face Anti-Spoofing**
+
   Yunpei Jia, Jie Zhang, Shiguang Shan, Xilin Chen. Single-Side Domain Generalization for Face Anti-Spoofing. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020071411125594.pdf
 )] [[code](https://github.com/taylover-pei/SSDG-CVPR2020)]
 - **Noise Robust Hard Example Mining for Human Detection with Efficient Depth-Thermal Fusion**
- Zijian Zhao, Jie Zhang, Shiguang Shan. Noise Robust Hard Example Mining for Human Detection with Efficient Depth-Thermal Fusion. IEEE International Conference on Automatic Face and Gesture Recognition Workshops (FGW), 2020. **(2nd Winner of Human Detection)** 
+
+  Zijian Zhao, Jie Zhang, Shiguang Shan. Noise Robust Hard Example Mining for Human Detection with Efficient Depth-Thermal Fusion. IEEE International Conference on Automatic Face and Gesture Recognition Workshops (FGW), 2020. **(2nd Winner of Human Detection)** 
 - **PAS-Net: Pose-based and Appearance-based Spatiotemporal Networks Fusion for Action Recognition **
- Changzhen Li, Jie Zhang, Shiguang Shan, Xilin Chen. PAS-Net: Pose-based and Appearance-based Spatiotemporal Networks Fusion for Action Recognition. IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2020. 
+
+  Changzhen Li, Jie Zhang, Shiguang Shan, Xilin Chen. PAS-Net: Pose-based and Appearance-based Spatiotemporal Networks Fusion for Action Recognition. IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2020. 
 
 
 
 ### 2019
 - **Locality-constrained Framework for Face Alignment**
+
   Jie Zhang, Xiaowei Zhao, Meina Kan, Shiguang Shan, Xiujuan Chai, Xilin Chen. Locality-constrained Framework for Face Alignment. Frontiers of Computer Science (FCS), 2019.
 - **Deformable Face Net: Learning Pose Invariant Feature with Pose Aware Feature Alignment for Face Recognition**
- Mingjie He, Jie Zhang, Shiguang Shan, Meina Kan, Xilin Chen. Deformable Face Net: Learning Pose Invariant Feature with Pose Aware Feature Alignment for Face Recognition. IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2019. (Oral) [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019070910345285.pdf)] [[code](https://github.com/EigenMing/Deformable-Face-Net)] 
+
+  Mingjie He, Jie Zhang, Shiguang Shan, Meina Kan, Xilin Chen. Deformable Face Net: Learning Pose Invariant Feature with Pose Aware Feature Alignment for Face Recognition. IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2019. (Oral) [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019070910345285.pdf)] [[code](https://github.com/EigenMing/Deformable-Face-Net)] 
 - **DFT-Net: Disentanglement of Face Deformation and Texture Synthesis for Expression Editing**
+
   Jinghui Wang, Jie Zhang, Zijia Lu, Shiguang Shan. DFT-Net: Disentanglement of Face Deformation and Texture Synthesis for Expression Editing. IEEE International Conference on Image Processing (ICIP), 2019. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020010317380364.pdf)] 
 
 
 ### 2018
 - **A Three-Category Face Detector with Contextual Information on Finding Tiny Faces**
+
   Feng Jiang, Jie Zhang, Liping Yan, Yuanqing Xia, Shiguang Shan. A Three-Category Face Detector with Contextual Information on Finding Tiny Faces. IEEE International Conference on Image Processing (ICIP), 2018.
 - **Efficient Weighted Kernel Sharing Convolutional Neural Networks**
- Helong Zhou, Yie-Tarng Chen, Jie Zhang, Wen-Hsien Fang. Efficient Weighted Kernel Sharing Convolutional Neural Networks. IEEE International Conference on Visual Communications and Image Processing (VCIP), 2018.
+
+  Helong Zhou, Yie-Tarng Chen, Jie Zhang, Wen-Hsien Fang. Efficient Weighted Kernel Sharing Convolutional Neural Networks. IEEE International Conference on Visual Communications and Image Processing (VCIP), 2018.
 
 ### 2017
 - **Robust Fec-cnn: A High Accuracy Facial Landmark Detection System**
+
   Zhenliang He, Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Robust Fec-cnn: A High Accuracy Facial Landmark Detection System. IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2017. **(2nd Winner of Face Alignment)** [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2018041016314136.pdf)]
 - **KinNet: Fine-to-Coarse Deep Metric Learning for Kinship Verification**
-Yong Li, Jiabei Zeng, Jie Zhang, Anbo Dai, Meina Kan, Shiguang Shan, Xilin Chen. Kinnet: Fine-to-coarse deep metric learning for kinship verification. ACM Conference on Multimedia Workshops (ACM MMW) 2017. **(1st Winner of Kinship Verification)** 
+
+  Yong Li, Jiabei Zeng, Jie Zhang, Anbo Dai, Meina Kan, Shiguang Shan, Xilin Chen. Kinnet: Fine-to-coarse deep metric learning for kinship verification. ACM Conference on Multimedia Workshops (ACM MMW) 2017. **(1st Winner of Kinship Verification)** 
 - **A Fully End-to-End Cascaded CNN for Facial Landmark Detection**
-Zhenliang He, Meina Kan, Jie Zhang, Xilin Chen, Shiguang Shan. A Fully End-to-End Cascaded CNN for Facial Landmark Detection. IEEE International Conference on Face and Gesture Recognition (FG), 2017. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2017122111490412.pdf)]
+
+  Zhenliang He, Meina Kan, Jie Zhang, Xilin Chen, Shiguang Shan. A Fully End-to-End Cascaded CNN for Facial Landmark Detection. IEEE International Conference on Face and Gesture Recognition (FG), 2017. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2017122111490412.pdf)]
 
 
 ### 2016
 - **Occlusion-free Face Alignment: Deep Regression Networks Coupled with De-corrupt AutoEncoders**
+
   Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Occlusion-free Face Alignment: Deep Regression Networks Coupled with De-corrupt AutoEncoders. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2018112115045748.pdf)]
 
 ### 2015
 - **Leveraging Datasets with Varying Annotations for Face Alignment via Deep Regression Network**
+
   Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Leveraging Datasets with Varying Annotations for Face Alignment via Deep Regression Network. IEEE International Conference on Computer Vision (ICCV), 2015. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2018112710234032.pdf)]
 - **AgeNet:Deeply Learned Regressor and Classifier for Robust Apparent Age Estimation**
-Xin Liu, Shaoxin Li, Meina Kan, Jie Zhang, Shuzhe Wu, Wenxian Liu, hu Han, Shiguang Shan, Xilin Chen. AgeNet:Deeply Learned Regressor and Classifier for Robust Apparent Age Estimation. IEEE International Conference on Computer Vision Workshops (ICCVW), 2015. **(2nd Winner of Apparent Age Estimation)** [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2018112710272449.pdf)]
+
+  Xin Liu, Shaoxin Li, Meina Kan, Jie Zhang, Shuzhe Wu, Wenxian Liu, hu Han, Shiguang Shan, Xilin Chen. AgeNet:Deeply Learned Regressor and Classifier for Robust Apparent Age Estimation. IEEE International Conference on Computer Vision Workshops (ICCVW), 2015. **(2nd Winner of Apparent Age Estimation)** [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2018112710272449.pdf)]
 
 ### 2014
 - **Coarse-to-Fine Auto-encoder Networks (CFAN) for Real-time Face Alignment**
-Jie Zhang, Shiguang Shan, Meina Kan, Xilin Chen. Coarse-to-Fine Auto-encoder Networks (CFAN) for Real-time Face Alignment. European Conference on Computer Vision (ECCV), 2014 [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2015116183235130.pdf)] [[code](http://vipl.ict.ac.cn/resources/codes/code/ECCV2014_CFAN_Code_v2.0.rar)]
+
+  Jie Zhang, Shiguang Shan, Meina Kan, Xilin Chen. Coarse-to-Fine Auto-encoder Networks (CFAN) for Real-time Face Alignment. European Conference on Computer Vision (ECCV), 2014 [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2015116183235130.pdf)] [[code](http://vipl.ict.ac.cn/resources/codes/code/ECCV2014_CFAN_Code_v2.0.rar)]
 - **Topic-aware Deep Auto-encoders (TDA) for Face Alignment**
-Jie Zhang, Meina Kan, Shiguang Shan, Xiaowe Zhao, Xilin Chen. Topic-aware Deep Auto-encoders (TDA) for Face Alignment. Asian Conference on Computer Vision (ACCV), 2014. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2015116194332061.pdf)] 
+
+  Jie Zhang, Meina Kan, Shiguang Shan, Xiaowe Zhao, Xilin Chen. Topic-aware Deep Auto-encoders (TDA) for Face Alignment. Asian Conference on Computer Vision (ACCV), 2014. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2015116194332061.pdf)] 
