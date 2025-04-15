@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Services"
+permalink: /services/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 ## Reviewer
 - Journal
     + IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
