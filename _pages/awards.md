@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# honor&award
+# Honors & Awards
 
 - 2024, First Prize in CSIG Natural Science Award 
 - 2024, Second Prize in China Railway Society Science and Technology Progress Award
