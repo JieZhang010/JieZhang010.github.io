@@ -1,0 +1,17 @@
+## Reviewer
+- Journal
+    + IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+    + International Journal of Computer Vision (IJCV)
+    + IEEE Transactions on Image Processing (TIP)
+    + IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+    + IEEE Transactions on Multimedia (TMM)
+    + IEEE Transactions on Cybernetics (TCyb)
+    + IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    + Neurocomputing
+- Conference
+    + IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+    + IEEE International Conference on Computer Vision (ICCV)
+    + European Conference on Computer Vision (ECCV)
+    + International Conference on Multimedia and Expo ��ICME��
+    + IEEE International Conference on Image Processing (ICIP)
+    + International Joint Conference on Biometrics (IJCB)
