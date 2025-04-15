@@ -1,12 +1,13 @@
 ---
-permalink: /
-title: "publications"
-excerpt: ""
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 
 ### 2022
