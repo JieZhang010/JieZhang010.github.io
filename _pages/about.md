@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Welcome <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
 
 Hi! Welcome to my homepage. I’m **Jie Zhang (张杰)**, an Associate Professor with the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. degree in computer science from the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS) under the supervision of Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/~sgshan) in 2017. During my PhD study, I also worked closely with [Meina Kan](http://vipl.ict.ac.cn/people/~mnkan). My research interests cover computer vision, pattern recognition, machine learning, particularly include face recognition, image segmentation, weakly/semi-supervised learning, domain generalization. I have published more than 20 papers in refereed journals and proceedings in the areas of computer vision and pattern recognition, such as CVPR, ICCV and ECCV. I have also won several awards, namely, Runner-up Award in IEEE FG Identity-preserved Human Detection Challenge 2020,Championship Award in ACM MM Kinship Recognition Challenge 2017, Runner-up Award in IEEE CVPR Landmark Detection Challenge 2017, Runner-up Award in IEEE ICCV Apparent Age Estimation Challenge 2015, etc. 
 
