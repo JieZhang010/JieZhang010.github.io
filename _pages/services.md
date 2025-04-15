@@ -23,6 +23,6 @@ redirect_from:
     + IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
     + IEEE International Conference on Computer Vision (ICCV)
     + European Conference on Computer Vision (ECCV)
-    + International Conference on Multimedia and Expo ��ICME��
+    + International Conference on Multimedia and Expo (ICME)
     + IEEE International Conference on Image Processing (ICIP)
     + International Joint Conference on Biometrics (IJCB)
