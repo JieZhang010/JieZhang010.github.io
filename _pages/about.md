@@ -16,11 +16,11 @@ Hi! Welcome to my homepage. I’m **Jie Zhang (张杰)**, an Associate Professor
 **<font color="blue">Internship and Graduate Students Opening</font>**: I am looking for self-motivated candidates who have solid mathematical backgrounds, strong English ability, and strong coding skills. If you are interested in doing research on Computer Vision and Pattern Recognition, please send detailed CV to me.
 
 # Recent News 🔥
-- <font color="red">*NEW*</font>**2021.11**: One paper on Occluded Face Recognition is accepted by IEEE TIP. Congratulations to Mingjie He.
-- <font color="red">*NEW*</font>**2021.11**: One paper on Cross-domain Face Anti-spoofing is accepted by IEEE TIFS. Congratulations to Yunpei.
-- <font color="red">*NEW*</font>**2021.10**: I'm selected to 2021 Microsoft Research Asia Casting Star Project.
-- <font color="red">*NEW*</font>**2021.07**: One paper on Adversarial Attack is accepted by ICCV'21. Congratulations to Zheng Yuan.
-- <font color="red">*NEW*</font>**2021.02**: One paper on Cross-scenario Face Anti-spoofing is accepted by Pattern Recognition (PR). Congratulations to Yunpei.
+- <span style="color:red">*NEW*</span>**2021.11**: One paper on Occluded Face Recognition is accepted by IEEE TIP. Congratulations to Mingjie He.
+- <span style="color:red">*NEW*</span>**2021.11**: One paper on Cross-domain Face Anti-spoofing is accepted by IEEE TIFS. Congratulations to Yunpei.
+- <span style="color:red">*NEW*</span>**2021.10**: I'm selected to 2021 Microsoft Research Asia Casting Star Project.
+- <span style="color:red">*NEW*</span>**2021.07**: One paper on Adversarial Attack is accepted by ICCV'21. Congratulations to Zheng Yuan.
+- <span style="color:red">*NEW*</span>**2021.02**: One paper on Cross-scenario Face Anti-spoofing is accepted by Pattern Recognition (PR). Congratulations to Yunpei.
 
 
 # Education
