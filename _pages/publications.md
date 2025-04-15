@@ -1,3 +1,14 @@
+---
+permalink: /publications/
+title: "publications"
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 ### 2022
 
 
