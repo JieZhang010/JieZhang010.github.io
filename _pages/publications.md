@@ -13,15 +13,19 @@ redirect_from:
 ### 2025
 
 - **Evaluating Cognitive-Behavioral Fixation via Multimodal User Viewing Patterns on Social Media**
+
   Yujie Wang, Yunwei Zhao, Jing Yang, Han Han, Shiguang Shan, Jie Zhang. Evaluating Cognitive-Behavioral Fixation via Multimodal User Viewing Patterns on Social Media. The Conference on Empirical Methods in Natural Language Processing (EMNLP) [[pdf](https://www.arxiv.org/abs/2509.04823)]
 
 - **SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs**
+
   Bei Yan, Zhiyuan Chen, Yuecong Min, Jie Zhang, Jiahao Wang, Xiaozhen Wang, Shiguang Shan. SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs. ACM International Conference on Multimedia (ACM MM). [[pdf](https://arxiv.org/abs/2508.09584)]
 
 - **Confidence aware learning for reliable face anti-spoofing**
+
   Xingming Long, Jie Zhang, Shiguang Shan. Confidence aware learning for reliable face anti-spoofing. IEEE Transactions on Information Forensics and Security (TIFS). [[pdf](https://ieeexplore.ieee.org/abstract/document/10978063/)]
 
 - **FullLoRA: Efficiently Boosting the Robustness of Pretrained Vision Transformers**
+
   Zheng Yuan, Jie Zhang, Shiguang Shan, Xilin Chen. FullLoRA: Efficiently Boosting the Robustness of Pretrained Vision Transformers. IEEE Transactions on Image Processing (TIP). [[pdf](https://ieeexplore.ieee.org/abstract/document/11080219/)]
 
 - **Face Forgery Video Detection via Temporal Forgery Cue Unraveling**
