@@ -15,6 +15,9 @@ redirect_from:
   + Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
   + Annual Meeting of the Association for Computational Linguistics (ACL), 2025
 
+- Associate Editor
+  + Pattern Recognition (PR)
+
 
 ## Reviewer
 
