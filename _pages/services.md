@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+## Associate Editor
+- Pattern Recognition (PR)
+
 ## Conference Technical Program Committee
 
 - Area Chair
   + Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
   + Annual Meeting of the Association for Computational Linguistics (ACL), 2025
-
-- Associate Editor
-  + Pattern Recognition (PR)
 
 
 ## Reviewer
