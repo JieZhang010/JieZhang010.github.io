@@ -16,6 +16,8 @@ Hi! Welcome to my homepage. I’m **Jie Zhang (张杰)**, an Associate Professor
 **<font color="blue">Internship and Graduate Students Opening</font>**: I am looking for self-motivated candidates who have solid mathematical backgrounds, strong English ability, and strong coding skills. If you are interested in doing research on Computer Vision and AI Safety, please send detailed CV to me.
 
 # Recent News 🔥
+- <span style="color:red">*NEW*</span> **2025.11**: One paper is accepted by IEEE TPAMI. Congratulations to Zhongqi and all co-authors.
+- <span style="color:red">*NEW*</span> **2025.11**: Very honored to serve as Associate Editor of Pattern Recognition (PR).
 - <span style="color:red">*NEW*</span> **2025.08**: One paper is accepted by EMNLP. Congratulations to Yujie and all co-authors.
 - <span style="color:red">*NEW*</span> **2025.07**: One paper is accepted by ACM MM. Congratulations to Bei Yan and all co-authors.
 - <span style="color:red">*NEW*</span> **2025.06**: One paper is accepted by IEEE TIP. Congratulations to Zheng Yuan and all co-authors.
