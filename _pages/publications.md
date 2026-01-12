@@ -9,8 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+### 2026
+- **A Survey of Multimodal Hallucination Evaluation and Detection**
+
+  Zhiyuan Chen, Yuecong Min, Jie Zhang, Bei Yan, Jiahao Wang, Xiaozhen Wang, Shiguang Shan. A Survey of Multimodal Hallucination Evaluation and Detection. International Journal of Computer Vision (IJCV). [[pdf](https://arxiv.org/abs/2507.19024)]
 
 ### 2025
+
+- **Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models**
+
+  Zhongqi Wang, Jie Zhang, Shiguang Shan, Xilin Chen. Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) [[pdf](https://ieeexplore.ieee.org/document/11300728)]
 
 - **Evaluating Cognitive-Behavioral Fixation via Multimodal User Viewing Patterns on Social Media**
 
