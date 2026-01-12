@@ -11,6 +11,7 @@ redirect_from:
 
 ## Associate Editor
 - Pattern Recognition (PR)
+- IEEE Transactions on Image Processing (TIP)
 
 ## Conference Technical Program Committee
 
