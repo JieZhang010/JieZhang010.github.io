@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ### 2026
+- **Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**
+
+  Liang Shi, Jie Zhang, Shiguang Shan. Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation. International Journal of Computer Vision (IJCV).
+
 - **A Survey of Multimodal Hallucination Evaluation and Detection**
 
   Zhiyuan Chen, Yuecong Min, Jie Zhang, Bei Yan, Jiahao Wang, Xiaozhen Wang, Shiguang Shan. A Survey of Multimodal Hallucination Evaluation and Detection. International Journal of Computer Vision (IJCV). [[pdf](https://arxiv.org/abs/2507.19024)]
