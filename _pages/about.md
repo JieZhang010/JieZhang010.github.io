@@ -16,6 +16,7 @@ Hi! Welcome to my homepage. I’m **Jie Zhang (张杰)**, an Associate Professor
 **<font color="blue">Internship and Graduate Students Opening</font>**: I am looking for self-motivated candidates who have solid mathematical backgrounds, strong English ability, and strong coding skills. If you are interested in doing research on Computer Vision and AI Safety, please send detailed CV to me.
 
 # Recent News 🔥
+- <span style="color:red">*NEW*</span> **2026.02**: One paper is accepted by IEEE IJCV. Congratulations to Zhiyuan and all co-authors.
 - <span style="color:red">*NEW*</span> **2026.01**: Very honored to serve as Associate Editor of IEEE TIP.
 - <span style="color:red">*NEW*</span> **2026.01**: One paper is accepted by IEEE IJCV. Congratulations to Zhiyuan and all co-authors.
 - <span style="color:red">*NEW*</span> **2025.11**: One paper is accepted by IEEE TPAMI. Congratulations to Zhongqi and all co-authors.
@@ -27,8 +28,6 @@ Hi! Welcome to my homepage. I’m **Jie Zhang (张杰)**, an Associate Professor
 - <span style="color:red">*NEW*</span> **2025.04**: Very honored to serve as an Area Chair (AC) in NeurIPS 2025.
 - <span style="color:red">*NEW*</span> **2025.02**: One paper is accepted by IEEE TIFS. Congratulations to Zhifan and all co-authors.
 - <span style="color:red">*NEW*</span> **2025.01**: One paper is accepted by ICLR'25. Congratulations to Zhongqi and all co-authors.
-- <span style="color:red">*NEW*</span> **2024.12**: Very honored to serve as an Area Chair (AC) in ACL 2025.
-- <span style="color:red">*NEW*</span> **2024.11**: One paper is accepted by IEEE TPAMI. Congratulations to Xingming and all co-authors.
 
 
 # Education
