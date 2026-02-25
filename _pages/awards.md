@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 # Honors & Awards
-
+- 2025, Championship Award in IEEE SaTML Anti-Backdoor Challenge
+- 2025, Young Scientist Award of the Chinese Society of Image and Graphics (CSIG)
+- 2025, Second Prize in the Science and Technology Progress Award by the China Computer Federation (CCF)
 - 2024, First Prize in CSIG Natural Science Award 
 - 2024, Second Prize in China Railway Society Science and Technology Progress Award
 - 2024, Gusu Leading Talent Award 
