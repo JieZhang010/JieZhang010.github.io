@@ -12,6 +12,7 @@ redirect_from:
 ## Associate Editor
 - Pattern Recognition (PR)
 - IEEE Transactions on Image Processing (TIP)
+- IEEE Open Journal of Signal Processing (OJSP)
 
 ## Conference Technical Program Committee
 
