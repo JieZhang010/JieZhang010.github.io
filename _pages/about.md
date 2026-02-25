@@ -29,7 +29,7 @@ Hi! Welcome to my homepage. I’m **Jie Zhang (张杰)**, an Associate Professor
 - <span style="color:red">*NEW*</span> **2025.04**: One paper is accepted by IEEE TIFS. Congratulations to Xingming and all co-authors.
 - <span style="color:red">*NEW*</span> **2025.04**: Very honored to serve as an Area Chair (AC) in NeurIPS 2025.
 - <span style="color:red">*NEW*</span> **2025.02**: One paper is accepted by IEEE TIFS. Congratulations to Zhifan and all co-authors.
-- <span style="color:red">*NEW*</span> **2025.01**: One paper is accepted by ICLR'25. Congratulations to Zhongqi and all co-authors.
+- <span style="color:red">*NEW*</span> **2025.01**: One paper is accepted by ICLR. Congratulations to Zhongqi and all co-authors.
 
 
 # Education
