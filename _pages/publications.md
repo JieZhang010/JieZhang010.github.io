@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ### 2026
+- **V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs**
+
+  Sen Nie, Jie Zhang, Jianxin Yan, Shiguang Shan, Xilin Chen.  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026. [[pdf](https://arxiv.org/abs/2511.20223)]
+
 - **Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**
 
   Liang Shi, Jie Zhang, Shiguang Shan. Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation. International Journal of Computer Vision (IJCV). [[pdf](https://arxiv.org/abs/2405.16895)]
