@@ -16,7 +16,7 @@ Hi! Welcome to my homepage. I’m **Jie Zhang (张杰)**, an Associate Professor
 **<font color="blue">Internship and Graduate Students Opening</font>**: I am looking for self-motivated candidates who have solid mathematical backgrounds, strong English ability, and strong coding skills. If you are interested in doing research on Computer Vision and AI Safety, please send detailed CV to me.
 
 # Recent News 🔥
-- <span style="color:red">*NEW*</span> **2026.02**: Get the first place in Anti-BAD Challenge of SaTML 2026. Congratulations to Zhongqi and all co-authors.
+- <span style="color:red">*NEW*</span> **2026.02**: Get the first place in Anti-BAD Challenge of SaTML 2026. Congratulations to Zhongqi and all team members.
 - <span style="color:red">*NEW*</span> **2026.02**: One paper on Adversarial Attack to LVLMs is accepted by CVPR. Congratulations to Sen Nie and all co-authors.
 - <span style="color:red">*NEW*</span> **2026.02**: One paper on Facial Privacy-Preserving Text-to-Image Generation is accepted by IJCV. Congratulations to Liang Shi and all co-authors.
 - <span style="color:red">*NEW*</span> **2026.01**: Very honored to serve as Associate Editor of IEEE TIP.
