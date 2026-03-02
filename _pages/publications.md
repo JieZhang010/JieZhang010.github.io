@@ -12,11 +12,11 @@ redirect_from:
 ### 2026
 - **Towards Transferable Defense Against Malicious Image Edits**
 
-  Jie Zhang, Shuai Dong, Shiguang Shan, Xilin Chen. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI). [[pdf](https://arxiv.org/pdf/2512.14341)]
+  Jie Zhang, Shuai Dong, Shiguang Shan, Xilin Chen. Towards Transferable Defense Against Malicious Image Edits. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI). [[pdf](https://arxiv.org/pdf/2512.14341)]
 
 - **V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs**
 
-  Sen Nie, Jie Zhang, Jianxin Yan, Shiguang Shan, Xilin Chen.  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026. [[pdf](https://arxiv.org/abs/2511.20223)]
+  Sen Nie, Jie Zhang, Jianxin Yan, Shiguang Shan, Xilin Chen. V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026. [[pdf](https://arxiv.org/abs/2511.20223)]
 
 - **Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**
 
