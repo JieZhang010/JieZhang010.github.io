@@ -11,7 +11,7 @@ redirect_from:
 
 ### 2026
 - **BIMM: Brain Inspired Masked Modeling for Video Representation Learning**
-  Jie Zhang, Zhifan Wan, Sen Nie, Changzhen Li, Shiguang Shan, Xilin Chen. BIMM: Brain Inspired Masked Modeling for Video Representation Learning. IEEE IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY (TCSVT).
+  Jie Zhang, Zhifan Wan, Sen Nie, Changzhen Li, Shiguang Shan, Xilin Chen. BIMM: Brain Inspired Masked Modeling for Video Representation Learning. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 
 - **Towards Transferable Defense Against Malicious Image Edits**
 
