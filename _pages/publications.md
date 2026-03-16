@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ### 2026
+- **Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection**
+
+  Zonghui Guo,Yingjie Liu,Jie Zhang,Haiyong Zheng,Shiguang Shan. Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).
+
 - **BIMM: Brain Inspired Masked Modeling for Video Representation Learning**
 
   Jie Zhang, Zhifan Wan, Sen Nie, Changzhen Li, Shiguang Shan, Xilin Chen. BIMM: Brain Inspired Masked Modeling for Video Representation Learning. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
