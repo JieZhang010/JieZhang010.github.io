@@ -11,7 +11,12 @@ redirect_from:
 
 ### 2026
 - **Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection**
+
   Bei Yan, Jie Zhang, Zhiyuan Chen, Shiguang Shan, Xilin Chen. Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection. Pattern Recognition. [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0031320326005893)]
+
+- **Vlbiasbench: A comprehensive benchmark for evaluating bias in large vision-language model**
+
+  Sibo Wang, Xiangkui Cao, Jie Zhang, Zheng Yuan, Shiguang Shan, Xilin Chen, Wen Gao. Vlbiasbench: A comprehensive benchmark for evaluating bias in large vision-language model. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI). [[pdf](https://arxiv.org/pdf/2406.14194)]
   
 - **Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection**
 
@@ -19,7 +24,7 @@ redirect_from:
 
 - **BIMM: Brain Inspired Masked Modeling for Video Representation Learning**
 
-  Jie Zhang, Zhifan Wan, Sen Nie, Changzhen Li, Shiguang Shan, Xilin Chen. BIMM: Brain Inspired Masked Modeling for Video Representation Learning. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [[pdf](https://arxiv.org/abs/2405.12757)]
+  Jie Zhang, Zhifan Wan, Sen Nie, Changzhen Li, Shiguang Shan, Xilin Chen. BIMM: Brain Inspired Masked Modeling for Video Representation Learning. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [[pdf](https://arxiv.org/pdf/2405.12757)]
 
 - **Towards Transferable Defense Against Malicious Image Edits**
 
