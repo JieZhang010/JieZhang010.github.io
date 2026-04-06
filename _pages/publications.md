@@ -11,6 +11,9 @@ redirect_from:
 
 ### 2026
 - **Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection**
+  Bei Yan, Jie Zhang, Zhiyuan Chen, Shiguang Shan, Xilin Chen. Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection. Pattern Recognition. [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0031320326005893)]
+  
+- **Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection**
 
   Zonghui Guo, Yingjie Liu, Jie Zhang, Haiyong Zheng, Shiguang Shan. Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).
 
