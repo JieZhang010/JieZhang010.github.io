@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ### 2026
-- **Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection**
+- **MM-MoralBench: A MultiModal Moral Evaluation Benchmark for Large Vision-Language Models.**
 
-  Bei Yan, Jie Zhang, Zhiyuan Chen, Shiguang Shan, Xilin Chen. Revisiting Face Forgery Detection: From Facial Representation to Forgery Detection. Pattern Recognition. [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0031320326005893)]
+  Bei Yan, Jie Zhang, Zhiyuan Chen, Shiguang Shan, Xilin Chen. MM-MoralBench: A MultiModal Moral Evaluation Benchmark for Large Vision-Language Models. Pattern Recognition. [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0031320326005893)]
 
 - **Vlbiasbench: A comprehensive benchmark for evaluating bias in large vision-language model**
 
