@@ -10,7 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ### 2026
-- **MM-MoralBench: A MultiModal Moral Evaluation Benchmark for Large Vision-Language Models.**
+- **INFACT: A Diagnostic Benchmark for Induced Faithfulness and Factuality Hallucinations in Video-LLMs**
+  
+  Yangjunqi, Yuecong Min, Jie Zhang, Shiguang Shan, Xilin Chen. INFACT: A Diagnostic Benchmark for Induced Faithfulness and Factuality Hallucinations in Video-LLMs. the Annual Meeting of the Association for Computational Linguistics (ACL) 2026. [[pdf](https://arxiv.org/pdf/2603.11481)]
+  
+- **MM-MoralBench: A MultiModal Moral Evaluation Benchmark for Large Vision-Language Models**
 
   Bei Yan, Jie Zhang, Zhiyuan Chen, Shiguang Shan, Xilin Chen. MM-MoralBench: A MultiModal Moral Evaluation Benchmark for Large Vision-Language Models. Pattern Recognition. [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0031320326005893)]
 
