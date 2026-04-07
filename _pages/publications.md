@@ -12,7 +12,7 @@ redirect_from:
 ### 2026
 - **INFACT: A Diagnostic Benchmark for Induced Faithfulness and Factuality Hallucinations in Video-LLMs**
   
-  Junqi Yang, Yuecong Min, Jie Zhang, Shiguang Shan, Xilin Chen. INFACT: A Diagnostic Benchmark for Induced Faithfulness and Factuality Hallucinations in Video-LLMs. the Annual Meeting of the Association for Computational Linguistics (ACL) 2026. [[pdf](https://arxiv.org/pdf/2603.11481)]
+  Junqi Yang, Yuecong Min, Jie Zhang, Shiguang Shan, Xilin Chen. INFACT: A Diagnostic Benchmark for Induced Faithfulness and Factuality Hallucinations in Video-LLMs. The Annual Meeting of the Association for Computational Linguistics (ACL) 2026. [[pdf](https://arxiv.org/pdf/2603.11481)]
   
 - **MM-MoralBench: A MultiModal Moral Evaluation Benchmark for Large Vision-Language Models**
 
