@@ -14,9 +14,9 @@ redirect_from:
 
   Sen Nie, Jie Zhang, Zhuo Wang, Shiguang Shan, Xilin Chen. Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP. Internationa Conference on Machine Learning (ICML). [[pdf](https://arxiv.org/abs/2601.19210)]
 
-- **You Don't Protect if You Don't Expect: Breaking the Key Assumption behind CLIp's Test-Time Defenses**
+- **You Don't Protect if You Don't Expect: Breaking the Key Assumption behind CLIP's Test-Time Defenses**
 
-  Ruize Zhang, Yu Li, Zhang Wan, Juan cao, Jie Zhang, Sheng Tang. You Don't Protect if You Don't Expect: Breaking the Key Assumption behind CLIp's Test-Time Defenses. Internationa Conference on Machine Learning (ICML).
+  Ruize Zhang, Yu Li, Zhang Wan, Juan cao, Jie Zhang, Sheng Tang. You Don't Protect if You Don't Expect: Breaking the Key Assumption behind CLIP's Test-Time Defenses. Internationa Conference on Machine Learning (ICML).
 
 - **INFACT: A Diagnostic Benchmark for Induced Faithfulness and Factuality Hallucinations in Video-LLMs**
   
