@@ -16,6 +16,7 @@ Hi! Welcome to my homepage. I’m **Jie Zhang (张杰)**, an Associate Professor
 **<font color="blue">Internship and Graduate Students Opening</font>**: I am looking for self-motivated candidates who have solid mathematical backgrounds, strong English ability, and strong coding skills. If you are interested in doing research on Computer Vision and AI Safety, please send detailed CV to me.
 
 # Recent News 🔥
+- <span style="color:red">*NEW*</span> **2026.05**: One paper on Stealthy Backdoor Attack toward T2I Diffusion Models is accepted by TIFS. Congratulations to Zhongqi and all co-authors.
 - <span style="color:red">*NEW*</span> **2026.05**: One paper on Test-time Defense toward Adversarial Robustness is accepted by ICML. Congratulations to Sen Nie and all co-authors.
 - <span style="color:red">*NEW*</span> **2026.04**: One paper on Hallucination Evaluation for Video-LLMs is accepted by ACL (Main). Congratulations to Junqi and all co-authors.
 - <span style="color:red">*NEW*</span> **2026.04**: One paper on Moral Evaluation for Large Vision-Language Model is accepted by PR. Congratulations to Bei Yan and all co-authors.
