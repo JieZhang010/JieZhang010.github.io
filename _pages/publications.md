@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ### 2026
+- **Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models**
+
+  Jie Zhang, Zhongqi Wang, Shiguang Shan, Xilin Chen. Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models. IEEE Transactions on Information Forensics and Security (TIFS). [[pdf](https://arxiv.org/abs/2503.17724)]
+
 - **Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP**
 
   Sen Nie, Jie Zhang, Zhuo Wang, Shiguang Shan, Xilin Chen. Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP. Internationa Conference on Machine Learning (ICML). [[pdf](https://arxiv.org/abs/2601.19210)]
