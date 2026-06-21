@@ -30,15 +30,15 @@ Hi! Welcome to my homepage. I’m **Jie Zhang (张杰)**, an Associate Professor
 - <span style="color:red">*NEW*</span> **2026.02**: One paper on Facial Privacy-Preserving Text-to-Image Generation is accepted by IJCV. Congratulations to Liang Shi and all co-authors.
 - <span style="color:red">*NEW*</span> **2026.01**: Very honored to serve as Associate Editor of IEEE TIP.
 - <span style="color:red">*NEW*</span> **2026.01**: One paper is accepted by IJCV. Congratulations to Zhiyuan and all co-authors.
-- <span style="color:red">*NEW*</span> **2025.11**: One paper is accepted by IEEE TPAMI. Congratulations to Zhongqi and all co-authors.
-- <span style="color:red">*NEW*</span> **2025.11**: Very honored to serve as Associate Editor of Pattern Recognition (PR).
-- <span style="color:red">*NEW*</span> **2025.08**: One paper is accepted by EMNLP. Congratulations to Yujie and all co-authors.
-- <span style="color:red">*NEW*</span> **2025.07**: One paper is accepted by ACM MM. Congratulations to Bei Yan and all co-authors.
-- <span style="color:red">*NEW*</span> **2025.06**: One paper is accepted by IEEE TIP. Congratulations to Zheng Yuan and all co-authors.
-- <span style="color:red">*NEW*</span> **2025.04**: One paper is accepted by IEEE TIFS. Congratulations to Xingming and all co-authors.
-- <span style="color:red">*NEW*</span> **2025.04**: Very honored to serve as an Area Chair (AC) in NeurIPS 2025.
-- <span style="color:red">*NEW*</span> **2025.02**: One paper is accepted by IEEE TIFS. Congratulations to Zhifan and all co-authors.
-- <span style="color:red">*NEW*</span> **2025.01**: One paper is accepted by ICLR. Congratulations to Zhongqi and all co-authors.
+- **2025.11**: One paper is accepted by IEEE TPAMI. Congratulations to Zhongqi and all co-authors.
+- **2025.11**: Very honored to serve as Associate Editor of Pattern Recognition (PR).
+- **2025.08**: One paper is accepted by EMNLP. Congratulations to Yujie and all co-authors.
+- **2025.07**: One paper is accepted by ACM MM. Congratulations to Bei Yan and all co-authors.
+- **2025.06**: One paper is accepted by IEEE TIP. Congratulations to Zheng Yuan and all co-authors.
+- **2025.04**: One paper is accepted by IEEE TIFS. Congratulations to Xingming and all co-authors.
+- **2025.04**: Very honored to serve as an Area Chair (AC) in NeurIPS 2025.
+- **2025.02**: One paper is accepted by IEEE TIFS. Congratulations to Zhifan and all co-authors.
+- **2025.01**: One paper is accepted by ICLR. Congratulations to Zhongqi and all co-authors.
 
 
 # Education
