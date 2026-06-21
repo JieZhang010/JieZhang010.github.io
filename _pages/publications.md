@@ -10,9 +10,15 @@ redirect_from:
 {% include base_path %}
 
 ### 2026
-- **Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models**
+- **Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating**
+  Xiangkui Cao, Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating. European Conference on Computer Vision (ECCV). [[pdf](https://arxiv.org/abs/2603.12598)]
 
-  Jie Zhang, Zhongqi Wang, Shiguang Shan, Xilin Chen. Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models. IEEE Transactions on Information Forensics and Security (TIFS). [[pdf](https://arxiv.org/abs/2503.17724)]
+- **Dual Attention Guided Defense Against Malicious Edits**
+ Jie Zhang, Shuai Dong, Shiguang Shan, Xilin Chen. Dual Attention Guided Defense Against Malicious Edits. IEEE Transactions on Information Forensics and Security (TIFS). [[pdf](https://ieeexplore.ieee.org/document/11557382)]
+
+- **Trigger Without Trace: Toward Stealthy Backdoor Attack on Text-to-Image Diffusion Models**
+
+  Jie Zhang, Zhongqi Wang, Shiguang Shan, Xilin Chen. Trigger Without Trace: Toward Stealthy Backdoor Attack on Text-to-Image Diffusion Models. IEEE Transactions on Information Forensics and Security (TIFS). [[pdf](https://ieeexplore.ieee.org/document/11527385)]
 
 - **Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP**
 
