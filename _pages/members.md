@@ -20,19 +20,23 @@ redirect_from:
 - Xiangkui Cao (Ph.D. Candidate)
 - Anqi Li (Ph.D. Candidate)
 - Junqi Yang (Ph.D. Candidate)
+- Zhiyuan Guo (Ph.D. Candidate)
 - Xinyu Zhao (M.S.)
 - Yuheng Zhang (M.S.)
 - Zhouyu Han (M.S.)
 - Sen Nie (M.S.)
 - Zhiyuan Chen (M.S.)
+- Yifei Liang (M.S.)
+- Zhihang Wu (M.S.)
+- Xiangwen Luo (M.S.)
+- Cong Mo (M.S.)
 
 ## Staff
 
-- Mingjie He (Associate Professor)
 - Yuecong Min (Post-doc Fellow)
+- Zhongfan Sun (Post-doc Fellow)
 - Zhenwei Du (Engineer)
 - Yuhan Li (Assistant Engineer)
-- Jiaxuan Li (Assistant Engineer)
 
 
 ## Alumni
