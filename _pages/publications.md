@@ -10,6 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ### 2026
+- **Delving Deep Into Unraveling Spatio-Temporal Forgery Cues for Face Forgery Video Detection**
+
+  Yingjie Liu, Zonghui Guo, Ximeng Li, Jie Zhang, Haiyong Zheng, Shiguang Shan. Delving Deep Into Unraveling Spatio-Temporal Forgery Cues for Face Forgery Video Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026. [[pdf](https://www.computer.org/csdl/journal/tp/5555/01/11719033/2kmYMOLj2AE)]
 
 - **Multi-PA: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models**
 
