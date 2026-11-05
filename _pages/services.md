@@ -17,6 +17,9 @@ redirect_from:
 ## Conference Technical Program Committee
 
 - Area Chair
+  + International Conference on Machine Learning (ICML), 2027
+  + Annual Meeting of the Association for Computational Linguistics (ACL), 2027
+  + AAAI Conference on Artificial Intelligence (AAAI), 2027
   + Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
   + Annual Meeting of the Association for Computational Linguistics (ACL), 2025
 
