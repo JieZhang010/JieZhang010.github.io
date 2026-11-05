@@ -30,6 +30,7 @@ redirect_from:
 - Zhihang Wu (M.S.)
 - Xiangwen Luo (M.S.)
 - Cong Mo (M.S.)
+- Yuqiao Huang (M.S.)
 
 ## Staff
 
